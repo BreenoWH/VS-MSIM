@@ -47,6 +47,6 @@ The adversarially trained models used in the experiments include:
 - ens4_adv_inc_v3
 - ens_adv_inc_res_v2
 The pretrained weights and corresponding model implementations can be obtained from:
-- SSA
-- tf_to_torch_model
+- [SSA](https://github.com/yuyang-long/SSA)
+- [tf_to_torch_model](https://github.com/ylhz/tf_to_pytorch_model)
 For detailed instructions on downloading and loading these models, please refer to the corresponding repositories.
