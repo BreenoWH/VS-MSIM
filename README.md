@@ -29,7 +29,6 @@ The ImageNet-compatible dataset used in our experiments can be downloaded from:
 [Dataset](https://github.com/Zhijin-Ge/STM/tree/main/dataset)
 After downloading, place the dataset under:
 ./dataset/
-
 The dataset directory should contain the input images and the corresponding label file required by the data loader.
 
 2. Prepare the Models
